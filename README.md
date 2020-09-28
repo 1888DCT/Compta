@@ -1,5 +1,5 @@
 # Compta
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Ce projet est issu d'un besoin de manager facilement les revenus, les dépenses et la gestion quand aux déclarations d'impôts.
 Il aura pour but de garder une trace, de faciliter les efforts quand on regarde une fiche de paie, son budget, de voir dans quoi notre argent part etc.
 
